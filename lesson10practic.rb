@@ -9,4 +9,4 @@ end
 
 
 
-puts show_me_numbers(5)
+puts show_me_numbers(10)
